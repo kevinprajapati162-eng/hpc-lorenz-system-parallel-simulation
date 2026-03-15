@@ -42,8 +42,6 @@ Lorenz.py – Python source code
 
 HPC Report.pdf – project report
 
-lorenz_seq_vs_par.png – runtime comparison plot
-
 **Results Summary**
 
 The project shows that parallel execution can significantly reduce runtime as the number of simulated systems increases, while maintaining numerical accuracy.
